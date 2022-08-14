@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+.timer {
+  margin: 100px auto 100px auto;
+  color: white;
+  font-family: 'Russo One', sans-serif;
+  font-size: 10rem;
+}
+
+.btn-xl {
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 25%;
+}
